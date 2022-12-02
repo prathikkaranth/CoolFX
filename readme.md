@@ -1,3 +1,3 @@
 A cool looking particle effect made using GLSL and python modernGL library.
 
-https://user-images.githubusercontent.com/53780002/205189902-3c464c07-25c9-4daa-8fa8-00c6c00e3769.mp4
+![fx](https://user-images.githubusercontent.com/53780002/205191384-a821449c-d13b-48b9-88fc-258d59d07728.gif)
